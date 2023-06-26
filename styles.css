@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+table,th,td{
+	border:2px  solid black;
+}
+th{
+	text-align:center;
+}
